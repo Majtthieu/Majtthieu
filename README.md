@@ -1,16 +1,13 @@
-<title>Bonjour !</title>
+## Bonjour ! Bienvenue sur mon Github
 
-<!--
-**Majtthieu/Majtthieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Je m'appelle Matthieu
 
-Here are some ideas to get you started:
+Je suis en reconversion professionnelle vers le développement informatique.
+Je suis titulaire d'un diplôme de développeur web avec OpenClassrooms et d'un Master II en éco-conception.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### J'ai travaillé avec :
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,nodejs,express,mongodb,tailwind,sass)](https://skillicons.dev)
+
+#### J'apprends :
+[![My Skills](https://skillicons.dev/icons?i=java,php)](https://skillicons.dev)
+
