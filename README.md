@@ -1,4 +1,4 @@
-## Hi there 👋
+<title>Bonjour !</title>
 
 <!--
 **Majtthieu/Majtthieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
